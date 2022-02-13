@@ -1,24 +1,9 @@
-# README
+![How to use enums in Ruby on Rails](https://f001.backblazeb2.com/file/webcrunch/enums-ruby-on-rails.jpg)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# How to use enums in Ruby on Rails
 
-Things you may want to cover:
+Ruby on Rail's ships with a module known as Enum which has a parent class of ActiveRecord. This handy module allows you to declare different states in the database using any Model in your Rails application.
 
-* Ruby version
+Enums are powerful thanks to the built-in methods and scopes that come with the framework. So rather than rolling all your methods in a given model, you can use a convention-based approach to manipulate a given state of something in an app.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Read the [full article](https://web-crunch.com/posts/how-to-use-enums-ruby-on-rails) or [watch the video tutorial](https://youtu.be/EiceC-m2UmI)
